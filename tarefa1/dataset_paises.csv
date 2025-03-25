@@ -1,0 +1,253 @@
+dt_hr_update;nm_pais;nm_capital;nm_currency;nm_continente
+2024-09-02T23:34:36;Afghanistan;Kabul;Afghani;Asia
+2024-09-02T23:34:36;Aland Islands;Mariehamn;Euro;Europe
+2024-09-02T23:34:37;Albania;Tirana;Lek;Europe
+2024-09-02T23:34:37;Algeria;Algiers;Dinar;Africa
+2024-09-02T23:34:37;American Samoa;Pago Pago;Dollar;Oceania
+2024-09-02T23:34:37;Andorra;Andorra la Vella;Euro;Europe
+2024-09-02T23:34:37;Angola;Luanda;Kwanza;Africa
+2024-09-02T23:34:37;Anguilla;The Valley;Dollar;North America
+2024-09-02T23:34:38;Antarctica;;;Antractica
+2024-09-02T23:34:38;Antigua and Barbuda;St. John's;Dollar;North America
+2024-09-02T23:34:38;Argentina;Buenos Aires;Peso;South America
+2024-09-02T23:34:38;Armenia;Yerevan;Dram;Asia
+2024-09-02T23:34:38;Aruba;Oranjestad;Guilder;North America
+2024-09-02T23:34:39;Australia;Canberra;Dollar;Oceania
+2024-09-02T23:34:39;Austria;Vienna;Euro;Europe
+2024-09-02T23:34:39;Azerbaijan;Baku;Manat;Asia
+2024-09-02T23:34:39;Bahamas;Nassau;Dollar;North America
+2024-09-02T23:34:39;Bahrain;Manama;Dinar;Asia
+2024-09-02T23:34:39;Bangladesh;Dhaka;Taka;Asia
+2024-09-02T23:34:40;Barbados;Bridgetown;Dollar;North America
+2024-09-02T23:34:40;Belarus;Minsk;Ruble;Europe
+2024-09-02T23:34:40;Belgium;Brussels;Euro;Europe
+2024-09-02T23:34:40;Belize;Belmopan;Dollar;North America
+2024-09-02T23:34:40;Benin;Porto-Novo;Franc;Africa
+2024-09-02T23:34:40;Bermuda;Hamilton;Dollar;North America
+2024-09-02T23:34:41;Bhutan;Thimphu;Ngultrum;Asia
+2024-09-02T23:34:41;Bolivia;Sucre;Boliviano;South America
+2024-09-02T23:34:41;Bonaire, Saint Eustatius and Saba;;Dollar;North America
+2024-09-02T23:34:41;Bosnia and Herzegovina;Sarajevo;Marka;Europe
+2024-09-02T23:34:41;Botswana;Gaborone;Pula;Africa
+2024-09-02T23:34:42;Bouvet Island;;Krone;Antractica
+2024-09-02T23:34:42;Brazil;Brasilia;Real;South America
+2024-09-02T23:34:42;British Indian Ocean Territory;Diego Garcia;Dollar;Asia
+2024-09-02T23:34:42;British Virgin Islands;Road Town;Dollar;North America
+2024-09-02T23:34:42;Brunei;Bandar Seri Begawan;Dollar;Asia
+2024-09-02T23:34:42;Bulgaria;Sofia;Lev;Europe
+2024-09-02T23:34:43;Burkina Faso;Ouagadougou;Franc;Africa
+2024-09-02T23:34:43;Burundi;Bujumbura;Franc;Africa
+2024-09-02T23:34:43;Cambodia;Phnom Penh;Riels;Asia
+2024-09-02T23:34:43;Cameroon;Yaounde;Franc;Africa
+2024-09-02T23:34:43;Canada;Ottawa;Dollar;North America
+2024-09-02T23:34:44;Cape Verde;Praia;Escudo;Africa
+2024-09-02T23:34:44;Cayman Islands;George Town;Dollar;North America
+2024-09-02T23:34:44;Central African Republic;Bangui;Franc;Africa
+2024-09-02T23:34:44;Chad;N'Djamena;Franc;Africa
+2024-09-02T23:34:44;Chile;Santiago;Peso;South America
+2024-09-02T23:34:44;China;Beijing;Yuan Renminbi;Asia
+2024-09-02T23:34:45;Christmas Island;Flying Fish Cove;Dollar;Asia
+2024-09-02T23:34:45;Cocos Islands;West Island;Dollar;Asia
+2024-09-02T23:34:45;Colombia;Bogota;Peso;South America
+2024-09-02T23:34:45;Comoros;Moroni;Franc;Africa
+2024-09-02T23:34:45;Cook Islands;Avarua;Dollar;Oceania
+2024-09-02T23:34:46;Costa Rica;San Jose;Colon;North America
+2024-09-02T23:34:46;Croatia;Zagreb;Kuna;Europe
+2024-09-02T23:34:46;Cuba;Havana;Peso;North America
+2024-09-02T23:34:46;Curacao;Willemstad;Guilder;North America
+2024-09-02T23:34:46;Cyprus;Nicosia;Euro;Europe
+2024-09-02T23:34:47;Czech Republic;Prague;Koruna;Europe
+2024-09-02T23:34:47;Democratic Republic of the Congo;Kinshasa;Franc;Africa
+2024-09-02T23:34:47;Denmark;Copenhagen;Krone;Europe
+2024-09-02T23:34:47;Djibouti;Djibouti;Franc;Africa
+2024-09-02T23:34:47;Dominica;Roseau;Dollar;North America
+2024-09-02T23:34:47;Dominican Republic;Santo Domingo;Peso;North America
+2024-09-02T23:34:48;East Timor;Dili;Dollar;Oceania
+2024-09-02T23:34:48;Ecuador;Quito;Dollar;South America
+2024-09-02T23:34:48;Egypt;Cairo;Pound;Africa
+2024-09-02T23:34:48;El Salvador;San Salvador;Dollar;North America
+2024-09-02T23:34:48;Equatorial Guinea;Malabo;Franc;Africa
+2024-09-02T23:34:49;Eritrea;Asmara;Nakfa;Africa
+2024-09-02T23:34:49;Estonia;Tallinn;Euro;Europe
+2024-09-02T23:34:49;Ethiopia;Addis Ababa;Birr;Africa
+2024-09-02T23:34:49;Falkland Islands;Stanley;Pound;South America
+2024-09-02T23:34:49;Faroe Islands;Torshavn;Krone;Europe
+2024-09-02T23:34:50;Fiji;Suva;Dollar;Oceania
+2024-09-02T23:34:50;Finland;Helsinki;Euro;Europe
+2024-09-02T23:34:50;France;Paris;Euro;Europe
+2024-09-02T23:34:50;French Guiana;Cayenne;Euro;South America
+2024-09-02T23:34:50;French Polynesia;Papeete;Franc;Oceania
+2024-09-02T23:34:50;French Southern Territories;Port-aux-Francais;Euro;Antractica
+2024-09-02T23:34:51;Gabon;Libreville;Franc;Africa
+2024-09-02T23:34:51;Gambia;Banjul;Dalasi;Africa
+2024-09-02T23:34:51;Georgia;Tbilisi;Lari;Asia
+2024-09-02T23:34:51;Germany;Berlin;Euro;Europe
+2024-09-02T23:34:51;Ghana;Accra;Cedi;Africa
+2024-09-02T23:34:51;Gibraltar;Gibraltar;Pound;Europe
+2024-09-02T23:34:52;Greece;Athens;Euro;Europe
+2024-09-02T23:34:52;Greenland;Nuuk;Krone;North America
+2024-09-02T23:34:52;Grenada;St. George's;Dollar;North America
+2024-09-02T23:34:52;Guadeloupe;Basse-Terre;Euro;North America
+2024-09-02T23:34:52;Guam;Hagatna;Dollar;Oceania
+2024-09-02T23:34:53;Guatemala;Guatemala City;Quetzal;North America
+2024-09-02T23:34:53;Guernsey;St Peter Port;Pound;Europe
+2024-09-02T23:34:53;Guinea;Conakry;Franc;Africa
+2024-09-02T23:34:53;Guinea-Bissau;Bissau;Franc;Africa
+2024-09-02T23:34:53;Guyana;Georgetown;Dollar;South America
+2024-09-02T23:34:53;Haiti;Port-au-Prince;Gourde;North America
+2024-09-02T23:34:54;Heard Island and McDonald Islands;;Dollar;Antractica
+2024-09-02T23:34:54;Honduras;Tegucigalpa;Lempira;North America
+2024-09-02T23:34:54;Hong Kong;Hong Kong;Dollar;Asia
+2024-09-02T23:34:54;Hungary;Budapest;Forint;Europe
+2024-09-02T23:34:54;Iceland;Reykjavik;Krona;Europe
+2024-09-02T23:34:54;India;New Delhi;Rupee;Asia
+2024-09-02T23:34:55;Indonesia;Jakarta;Rupiah;Asia
+2024-09-02T23:34:55;Iran;Tehran;Rial;Asia
+2024-09-02T23:34:55;Iraq;Baghdad;Dinar;Asia
+2024-09-02T23:34:55;Ireland;Dublin;Euro;Europe
+2024-09-02T23:34:55;Isle of Man;Douglas, Isle of Man;Pound;Europe
+2024-09-02T23:34:55;Israel;Jerusalem;Shekel;Asia
+2024-09-02T23:34:56;Italy;Rome;Euro;Europe
+2024-09-02T23:34:56;Ivory Coast;Yamoussoukro;Franc;Africa
+2024-09-02T23:34:56;Jamaica;Kingston;Dollar;North America
+2024-09-02T23:34:56;Japan;Tokyo;Yen;Asia
+2024-09-02T23:34:56;Jersey;Saint Helier;Pound;Europe
+2024-09-02T23:34:57;Jordan;Amman;Dinar;Asia
+2024-09-02T23:34:57;Kazakhstan;Astana;Tenge;Asia
+2024-09-02T23:34:57;Kenya;Nairobi;Shilling;Africa
+2024-09-02T23:34:57;Kiribati;Tarawa;Dollar;Oceania
+2024-09-02T23:34:57;Kosovo;Pristina;Euro;Europe
+2024-09-02T23:34:57;Kuwait;Kuwait City;Dinar;Asia
+2024-09-02T23:34:58;Kyrgyzstan;Bishkek;Som;Asia
+2024-09-02T23:34:58;Laos;Vientiane;Kip;Asia
+2024-09-02T23:34:58;Latvia;Riga;Euro;Europe
+2024-09-02T23:34:58;Lebanon;Beirut;Pound;Asia
+2024-09-02T23:34:58;Lesotho;Maseru;Loti;Africa
+2024-09-02T23:34:58;Liberia;Monrovia;Dollar;Africa
+2024-09-02T23:34:59;Libya;Tripolis;Dinar;Africa
+2024-09-02T23:34:59;Liechtenstein;Vaduz;Franc;Europe
+2024-09-02T23:34:59;Lithuania;Vilnius;Litas;Europe
+2024-09-02T23:34:59;Luxembourg;Luxembourg;Euro;Europe
+2024-09-02T23:34:59;Macao;Macao;Pataca;Asia
+2024-09-02T23:35:00;Macedonia;Skopje;Denar;Europe
+2024-09-02T23:35:00;Madagascar;Antananarivo;Ariary;Africa
+2024-09-02T23:35:00;Malawi;Lilongwe;Kwacha;Africa
+2024-09-02T23:35:00;Malaysia;Kuala Lumpur;Ringgit;Asia
+2024-09-02T23:35:00;Maldives;Male;Rufiyaa;Asia
+2024-09-02T23:35:01;Mali;Bamako;Franc;Africa
+2024-09-02T23:35:01;Malta;Valletta;Euro;Europe
+2024-09-02T23:35:01;Marshall Islands;Majuro;Dollar;Oceania
+2024-09-02T23:35:01;Martinique;Fort-de-France;Euro;North America
+2024-09-02T23:35:01;Mauritania;Nouakchott;Ouguiya;Africa
+2024-09-02T23:35:01;Mauritius;Port Louis;Rupee;Africa
+2024-09-02T23:35:02;Mayotte;Mamoudzou;Euro;Africa
+2024-09-02T23:35:02;Mexico;Mexico City;Peso;North America
+2024-09-02T23:35:02;Micronesia;Palikir;Dollar;Oceania
+2024-09-02T23:35:02;Moldova;Chisinau;Leu;Europe
+2024-09-02T23:35:02;Monaco;Monaco;Euro;Europe
+2024-09-02T23:35:02;Mongolia;Ulan Bator;Tugrik;Asia
+2024-09-02T23:35:03;Montenegro;Podgorica;Euro;Europe
+2024-09-02T23:35:03;Montserrat;Plymouth;Dollar;North America
+2024-09-02T23:35:03;Morocco;Rabat;Dirham;Africa
+2024-09-02T23:35:03;Mozambique;Maputo;Metical;Africa
+2024-09-02T23:35:03;Myanmar;Nay Pyi Taw;Kyat;Asia
+2024-09-02T23:35:04;Namibia;Windhoek;Dollar;Africa
+2024-09-02T23:35:04;Nauru;Yaren;Dollar;Oceania
+2024-09-02T23:35:04;Nepal;Kathmandu;Rupee;Asia
+2024-09-02T23:35:04;Netherlands;Amsterdam;Euro;Europe
+2024-09-02T23:35:04;Netherlands Antilles;Willemstad;Guilder;North America
+2024-09-02T23:35:04;New Caledonia;Noumea;Franc;Oceania
+2024-09-02T23:35:05;New Zealand;Wellington;Dollar;Oceania
+2024-09-02T23:35:05;Nicaragua;Managua;Cordoba;North America
+2024-09-02T23:35:05;Niger;Niamey;Franc;Africa
+2024-09-02T23:35:05;Nigeria;Abuja;Naira;Africa
+2024-09-02T23:35:05;Niue;Alofi;Dollar;Oceania
+2024-09-02T23:35:05;Norfolk Island;Kingston;Dollar;Oceania
+2024-09-02T23:35:06;North Korea;Pyongyang;Won;Asia
+2024-09-02T23:35:06;Northern Mariana Islands;Saipan;Dollar;Oceania
+2024-09-02T23:35:06;Norway;Oslo;Krone;Europe
+2024-09-02T23:35:06;Oman;Muscat;Rial;Asia
+2024-09-02T23:35:06;Pakistan;Islamabad;Rupee;Asia
+2024-09-02T23:35:06;Palau;Melekeok;Dollar;Oceania
+2024-09-02T23:35:07;Palestinian Territory;East Jerusalem;Shekel;Asia
+2024-09-02T23:35:07;Panama;Panama City;Balboa;North America
+2024-09-02T23:35:07;Papua New Guinea;Port Moresby;Kina;Oceania
+2024-09-02T23:35:07;Paraguay;Asuncion;Guarani;South America
+2024-09-02T23:35:07;Peru;Lima;Sol;South America
+2024-09-02T23:35:08;Philippines;Manila;Peso;Asia
+2024-09-02T23:35:08;Pitcairn;Adamstown;Dollar;Oceania
+2024-09-02T23:35:08;Poland;Warsaw;Zloty;Europe
+2024-09-02T23:35:08;Portugal;Lisbon;Euro;Europe
+2024-09-02T23:35:08;Puerto Rico;San Juan;Dollar;North America
+2024-09-02T23:35:08;Qatar;Doha;Rial;Asia
+2024-09-02T23:35:09;Republic of the Congo;Brazzaville;Franc;Africa
+2024-09-02T23:35:09;Reunion;Saint-Denis;Euro;Africa
+2024-09-02T23:35:09;Romania;Bucharest;Leu;Europe
+2024-09-02T23:35:09;Russia;Moscow;Ruble;Europe
+2024-09-02T23:35:09;Rwanda;Kigali;Franc;Africa
+2024-09-02T23:35:09;Saint Barthelemy;Gustavia;Euro;North America
+2024-09-02T23:35:10;Saint Helena;Jamestown;Pound;Africa
+2024-09-02T23:35:10;Saint Kitts and Nevis;Basseterre;Dollar;North America
+2024-09-02T23:35:10;Saint Lucia;Castries;Dollar;North America
+2024-09-02T23:35:10;Saint Martin;Marigot;Euro;North America
+2024-09-02T23:35:10;Saint Pierre and Miquelon;Saint-Pierre;Euro;North America
+2024-09-02T23:35:11;Saint Vincent and the Grenadines;Kingstown;Dollar;North America
+2024-09-02T23:35:11;Samoa;Apia;Tala;Oceania
+2024-09-02T23:35:11;San Marino;San Marino;Euro;Europe
+2024-09-02T23:35:11;Sao Tome and Principe;Sao Tome;Dobra;Africa
+2024-09-02T23:35:11;Saudi Arabia;Riyadh;Rial;Asia
+2024-09-02T23:35:11;Senegal;Dakar;Franc;Africa
+2024-09-02T23:35:12;Serbia;Belgrade;Dinar;Europe
+2024-09-02T23:35:12;Serbia and Montenegro;Belgrade;Dinar;Europe
+2024-09-02T23:35:12;Seychelles;Victoria;Rupee;Africa
+2024-09-02T23:35:12;Sierra Leone;Freetown;Leone;Africa
+2024-09-02T23:35:12;Singapore;Singapur;Dollar;Asia
+2024-09-02T23:35:13;Sint Maarten;Philipsburg;Guilder;North America
+2024-09-02T23:35:13;Slovakia;Bratislava;Euro;Europe
+2024-09-02T23:35:13;Slovenia;Ljubljana;Euro;Europe
+2024-09-02T23:35:13;Solomon Islands;Honiara;Dollar;Oceania
+2024-09-02T23:35:13;Somalia;Mogadishu;Shilling;Africa
+2024-09-02T23:35:13;South Africa;Pretoria;Rand;Africa
+2024-09-02T23:35:14;South Georgia and the South Sandwich Islands;Grytviken;Pound;Antractica
+2024-09-02T23:35:14;South Korea;Seoul;Won;Asia
+2024-09-02T23:35:14;South Sudan;Juba;Pound;Africa
+2024-09-02T23:35:14;Spain;Madrid;Euro;Europe
+2024-09-02T23:35:14;Sri Lanka;Colombo;Rupee;Asia
+2024-09-02T23:35:14;Sudan;Khartoum;Pound;Africa
+2024-09-02T23:35:15;Suriname;Paramaribo;Dollar;South America
+2024-09-02T23:35:15;Svalbard and Jan Mayen;Longyearbyen;Krone;Europe
+2024-09-02T23:35:15;Swaziland;Mbabane;Lilangeni;Africa
+2024-09-02T23:35:15;Sweden;Stockholm;Krona;Europe
+2024-09-02T23:35:15;Switzerland;Berne;Franc;Europe
+2024-09-02T23:35:16;Syria;Damascus;Pound;Asia
+2024-09-02T23:35:16;Taiwan;Taipei;Dollar;Asia
+2024-09-02T23:35:16;Tajikistan;Dushanbe;Somoni;Asia
+2024-09-02T23:35:16;Tanzania;Dodoma;Shilling;Africa
+2024-09-02T23:35:16;Thailand;Bangkok;Baht;Asia
+2024-09-02T23:35:16;Togo;Lome;Franc;Africa
+2024-09-02T23:35:17;Tokelau;;Dollar;Oceania
+2024-09-02T23:35:17;Tonga;Nuku'alofa;Pa'anga;Oceania
+2024-09-02T23:35:17;Trinidad and Tobago;Port of Spain;Dollar;North America
+2024-09-02T23:35:17;Tunisia;Tunis;Dinar;Africa
+2024-09-02T23:35:17;Turkey;Ankara;Lira;Asia
+2024-09-02T23:35:17;Turkmenistan;Ashgabat;Manat;Asia
+2024-09-02T23:35:18;Turks and Caicos Islands;Cockburn Town;Dollar;North America
+2024-09-02T23:35:18;Tuvalu;Funafuti;Dollar;Oceania
+2024-09-02T23:35:18;U.S. Virgin Islands;Charlotte Amalie;Dollar;North America
+2024-09-02T23:35:18;Uganda;Kampala;Shilling;Africa
+2024-09-02T23:35:18;Ukraine;Kiev;Hryvnia;Europe
+2024-09-02T23:35:19;United Arab Emirates;Abu Dhabi;Dirham;Asia
+2024-09-02T23:35:19;United Kingdom;London;Pound;Europe
+2024-09-02T23:35:19;United States;Washington;Dollar;North America
+2024-09-02T23:35:19;United States Minor Outlying Islands;;Dollar;Oceania
+2024-09-02T23:35:19;Uruguay;Montevideo;Peso;South America
+2024-09-02T23:35:19;Uzbekistan;Tashkent;Som;Asia
+2024-09-02T23:35:20;Vanuatu;Port Vila;Vatu;Oceania
+2024-09-02T23:35:20;Vatican;Vatican City;Euro;Europe
+2024-09-02T23:35:20;Venezuela;Caracas;Bolivar;South America
+2024-09-02T23:35:20;Vietnam;Hanoi;Dong;Asia
+2024-09-02T23:35:20;Wallis and Futuna;Mata Utu;Franc;Oceania
+2024-09-02T23:35:20;Western Sahara;El-Aaiun;Dirham;Africa
+2024-09-02T23:35:21;Yemen;Sanaa;Rial;Asia
+2024-09-02T23:35:21;Zambia;Lusaka;Kwacha;Africa
+2024-09-02T23:35:21;Zimbabwe;Harare;Dollar;Africa
